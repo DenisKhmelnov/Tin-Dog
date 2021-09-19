@@ -1,2 +1,1 @@
-# Tin-Dog
-School project for dogs dating site
+TinDog Starting Files
